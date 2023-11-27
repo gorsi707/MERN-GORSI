@@ -1,0 +1,12 @@
+{
+  "db": {
+    "database": "LMS",
+    "host": "localhost",
+    "port": 5432,
+    "username": "postgres",
+    "password": "#3007Ninetynine",
+    "logging": false,
+    "dialect": "postgres"
+  }
+}
+git p
